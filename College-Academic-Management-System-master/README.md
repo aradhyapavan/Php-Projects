@@ -11,7 +11,7 @@ Features:
 
 Student Portal:
 
-Sign up and access: Easy registration using university seat number.
+<li>Sign up and access: Easy registration using university seat number.</li>
 View academic info: Access IA marks, semester marks, attendance details, and assignments.
 Download results: Generate and download PDFs of semester results.
 Stay informed: View important notifications and announcements.
