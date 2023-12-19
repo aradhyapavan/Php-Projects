@@ -9,19 +9,21 @@ This application provides a central platform for managing academic information i
 
 Features:
 
-Student Portal:
+## Student Portal:
 
 <li>Sign up and access: Easy registration using university seat number.</li>
-View academic info: Access IA marks, semester marks, attendance details, and assignments.
-Download results: Generate and download PDFs of semester results.
-Stay informed: View important notifications and announcements.
-Admin/Staff Portal:
+<li>View academic info: Access IA marks, semester marks, attendance details, and assignments.</li>
+<li>Download results: Generate and download PDFs of semester results.</li>
+<li>Stay informed: View important notifications and announcements.</li>
 
-Manage attendance: Record and update student attendance for each subject.
-Input results: Enter IA and semester marks subject-wise for individual students.
-Upload assignments: Assign and manage student assignments with deadline tracking.
-Publish notifications: Share crucial information and updates with students.
-Benefits:
+## Admin/Staff Portal:
+
+<li>Manage attendance: Record and update student attendance for each subject.
+<li>Input results: Enter IA and semester marks subject-wise for individual students.
+<li>Upload assignments: Assign and manage student assignments with deadline tracking.
+<li>Publish notifications: Share crucial information and updates with students.
+ 
+##Benefits:
 
 Increased efficiency: Streamlines academic data management and saves time.
 Enhanced transparency: Provides students with easy access to academic information.
@@ -29,22 +31,12 @@ Improved communication: Facilitates efficient communication between students and
 Simplified workload: Automates routine tasks and reduces manual work for staff.
 Technologies:
 
+##Tech Stack USed: 
+Frontend:Htms,Css,JS,Bootstrap,Jquery
 Backend: PHP
 Database: (specify the database you're using, e.g., MySQL)
-Optional: Additional technologies like frameworks or libraries (mention if applicable)
-Getting Started:
 
-Clone the repository.
-Configure the database connection in config.php.
-Populate the database with data using the provided scripts.
-Access the application through the student and admin portal interfaces.
-Contributing:
 
-We welcome contributions! Please read the CONTRIBUTING.md file for guidelines on submitting pull requests.
-
-Feedback:
-
-We appreciate your feedback! Feel free to report issues or suggest improvements on the GitHub repository.
 
 License:
 
