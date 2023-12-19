@@ -1,0 +1,5 @@
+{
+    "require": {
+        "Statickidz/php-google-translate-free": "^1.1.1"
+    }
+}
