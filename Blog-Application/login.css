@@ -1,0 +1,108 @@
+.main-content {
+    width: 50%;
+    border-color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .4);
+    margin: 3em auto;
+    display: flex;
+}
+
+.company__info {
+    background-color: rgb(0, 0, 0);
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+.fas fa-robot {
+    font-size: 3em;
+}
+
+@media screen and (max-width: 640px) {
+    .main-content {
+        width: 100%;
+        margin: 6em auto;
+        margin-right: 10px;
+    }
+    .company__info {
+        background-color: rgb(0, 0, 0);
+        border-top-left-radius: 25px;
+        border-bottom-left-radius: 25px;
+        border-top-right-radius: 25px;
+        border-bottom-right-radius: 25px;
+        margin-bottom: 3px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        color: #fff;
+    }
+    .login_form {
+        background-color: #fff;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+    }
+}
+
+@media screen and (min-width: 642px) and (max-width:800px) {
+    .main-content {
+        width: 70%;
+    }
+}
+
+.row>h2 {
+    color: #080808;
+}
+
+.login_form {
+    background-color: #fff;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+}
+
+form {
+    padding: 0 2em;
+}
+
+.form__input {
+    width: 100%;
+    border: 0px solid transparent;
+    border-radius: 0;
+    border-bottom: 1px solid rgb(10, 10, 10);
+    padding: 1em .5em .5em;
+    padding-left: 2em;
+    outline: none;
+    margin: 0.5em auto;
+    transition: all .5s ease;
+}
+
+.form__input:focus {
+    border-bottom-color: #0c0c0c;
+    box-shadow: 0 0 5px rgba(8, 8, 8, 0.4);
+    border-radius: 4px;
+}
+
+.btn {
+    transition: all .5s ease;
+    width: 70%;
+    border-radius: 30px;
+    color: #080808;
+    font-weight: 600;
+    justify-content: center;
+    background-color: #fff;
+    border: 1px solid #0c0c0c;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+.btn:hover,
+.btn:focus {
+    background-color: #0a0a0a;
+    color: #fff;
+}
