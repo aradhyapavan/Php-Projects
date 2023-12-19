@@ -23,15 +23,16 @@ Stay informed: View important notifications and announcements.</li>
 <li>Upload assignments: Assign and manage student assignments with deadline tracking.
 <li>Publish notifications: Share crucial information and updates with students.
  
-##Benefits:
+## Benefits:
 
-Increased efficiency: Streamlines academic data management and saves time.
-Enhanced transparency: Provides students with easy access to academic information.
-Improved communication: Facilitates efficient communication between students and administrators.
-Simplified workload: Automates routine tasks and reduces manual work for staff.
-Technologies:
+<li>Increased efficiency: Streamlines academic data management and saves time.
+<li>Enhanced transparency: Provides students with easy access to academic information.
+<li>Improved communication: Facilitates efficient communication between students and administrators.
+<li>Simplified workload: Automates routine tasks and reduces manual work for staff.
 
-##Tech Stack USed: 
+
+
+## Tech Stack USed: 
 Frontend:Htms,Css,JS,Bootstrap,Jquery
 Backend: PHP
 Database: (specify the database you're using, e.g., MySQL)
