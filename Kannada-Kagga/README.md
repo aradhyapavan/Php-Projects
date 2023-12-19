@@ -10,11 +10,11 @@
 
 This web-based PHP application focuses on DVG's Kaggas, offering users a comprehensive and interactive experience.
 
-##Features:
+## Features:
 
-<liBrowse Kaggas: Explore a comprehensive list of Kaggas
-Multilingual Translations: View each Kaga in its original Old Kannada form alongside English and Kannada translations.
-<liIn-depth Analysis: Access detailed annotations of each Kaga in Kannada and English, explaining cultural references, metaphors, and deeper meanings.
+<li>Browse Kaggas: Explore a comprehensive list of Kaggas
+<li>Multilingual Translations: View each Kaga in its original Old Kannada form alongside English and Kannada translations.
+<li>In-depth Analysis: Access detailed annotations of each Kaga in Kannada and English, explaining cultural references, metaphors, and deeper meanings.
 <li>Personalization: Choose your preferred annotation language from a variety of options like Hindi, Telugu, Marathi, Malayalam, Japanese, French, German, and Tamil.
 
 ## Tech Stack Used:
