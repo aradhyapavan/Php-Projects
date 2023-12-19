@@ -1,9 +1,10 @@
 ##  ಕನ್ನಡ ಮಂಕುತಿಮ್ಮನ ಕಗ್ಗ
 
- ## DVG Kagga Sangraha - A Web-Based PHP Application for DVG's Poetic Works
-About DVG and Kaggas:
+ ## DVG Kagga Sangraha - A Web-Based PHP Application for DVG's Poetic Works.
+ 
+ ## About DVG and Kaggas:
 
- ## DVG, also known as Dr. Venkataramanaiah Gundappa, was a prominent Kannada writer, poet, and philosopher. His "Kaggas", short poems with profound philosophical meanings, are considered gems of Kannada literature.
+ DVG, also known as Dr. Venkataramanaiah Gundappa, was a prominent Kannada writer, poet, and philosopher. His "Kaggas", short poems with profound philosophical meanings, are considered gems of Kannada literature.
 
 ## Project Description:
 
