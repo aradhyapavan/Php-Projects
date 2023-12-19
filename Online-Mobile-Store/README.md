@@ -14,8 +14,7 @@ This project aims to develop a fully functional online mobile store using PHP, c
     * Manage order details, including shipping and payment status.
 * **Payment Confirmation:**
     * Confirm payments received through Cards, COD, and Paypal.
-* **Data Analysis:**
-    * Generate reports on sales, popular products, and user behavior.
+
 
 **User Interface:**
 
@@ -27,12 +26,11 @@ This project aims to develop a fully functional online mobile store using PHP, c
 * **Order Confirmation and Tracking:** Receive email confirmation of orders and track their status.
 * **User Profile:** Manage personal information, view order history, and track past purchases.
 
-**Technical Stack:**
+**Tech Stack:**
 
 * **Backend:** PHP
-* **Database:** MySQL or any suitable database management system
-* **Frontend:** HTML, CSS, JavaScript
-* **E-commerce Framework:** Consider using existing frameworks like Laravel or CodeIgniter for efficient development.
+* **Database:** MySQL 
+* **Frontend:** HTML, CSS, JavaScript,Bootstrap and Jquery.
 * **Payment Gateway:** Integrate Paypal API for secure transactions.
 
 **Grade-based Complexity:**
