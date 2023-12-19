@@ -33,9 +33,9 @@ Stay informed: View important notifications and announcements.</li>
 
 
 ## Tech Stack USed: 
-<li>Frontend:Htms,Css,JS,Bootstrap,Jquery
-Backend: PHP
-Database:  MySQL</li>
+<li>Frontend:Html , Css ,JavaSCript ,Bootstrap ,Jquery.
+<li>Backend: PHP.
+<li>Database: MySQL.
 
 
 
